@@ -33,7 +33,7 @@ Mi Proyecto es una Galeria de Imagenes osea una pagina donde puedas ver imagenes
 
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-06-54.png)
 
-4. Esta es la ventana Wallpapers donde se ponen imagenes de fondo de pantalla tiene las mismas funciones que la ventana principal.
+4. Esta es la ventana Wallpapers donde se ponen imagenes de fondo de pantalla, tiene las mismas funciones que la ventana principal.
 
 ----
 

@@ -29,7 +29,14 @@ Esta es vantana donde se le puede hacer zoom a las fotos, se crea un cuadrito co
 
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-06-54.png)
 
-Esta es la ventana Wallpapers donde se ponen imagenes de fondo de pantalla tiene las mismas funciones que la ventana principal. 
+Esta es la ventana Wallpapers donde se ponen imagenes de fondo de pantalla tiene las mismas funciones que la ventana principal.
 
 
+
+
+## Dependencias: 
+* JQuery link: https://jquery.com/
+* Bootstrap link: http://getbootstrap.com/
+* elevatezoom link: http://www.elevateweb.co.uk/image-zoom
+* lightbox link: http://lokeshdhakar.com/projects/lightbox2/
 

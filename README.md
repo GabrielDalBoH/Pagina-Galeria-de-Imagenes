@@ -1,4 +1,4 @@
-# Pagina-Galeria-de-Imagenes
+# Pagina Galeria de Imagenes
 -----
 -----
 
@@ -28,12 +28,12 @@ Esta es la ventana cuando se le hace click a una imagen. Tiene un boton para sal
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-05-17.png)
 
 Esta es vantana donde se le puede hacer zoom a las fotos, se crea un cuadrito con un tamaño que se puede cambiar con el scroll del mouse y se puede ver hasta los limites de la imagen con el mouse.
+
 ----
 
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-06-54.png)
 
 Esta es la ventana Wallpapers donde se ponen imagenes de fondo de pantalla tiene las mismas funciones que la ventana principal.
-
 
 ----
 

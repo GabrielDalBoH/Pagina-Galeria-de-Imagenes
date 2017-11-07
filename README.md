@@ -15,7 +15,7 @@ Mi Proyecto es una Galeria de Imagenes osea una pagina donde puedas ver imagenes
 ## Ventanas:
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-04-11.png)
 
-En esta ventana esta la Pagina principal sin hacerle click a nada se puede ver en la parte superior el boton home que seria esta ventana, tambien esta la ventana Wallpapers.
+En esta ventana esta la Pagina principal sin hacerle click a nada se puede ver en la parte superior el boton home que seria esta ventana, tambien esta la ventana Wallpapers. La pagina tambien tiene un boton de buscar para buscar una imagen especifica 
 
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-04-49.png)
 
